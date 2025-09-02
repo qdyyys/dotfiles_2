@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Tokyo Night - Muted",
+  "editor.fontFamily": "'IBM Plex Mono', monospace",
+  "editor.fontWeight": "600",
+  "terminal.integrated.fontFamily": "IBM Plex Mono",
+  "terminal.integrated.fontWeight": "600",
+  "terminal.integrated.fontSize": 13,
+  "editor.fontSize": 13,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.iconTheme": "catppuccin-perfect-ayu",
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+
+  "window.menuBarVisibility": "hidden",
+  "workbench.statusBar.visible": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.editor.empty.hint": "hidden"
+}
+

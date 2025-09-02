@@ -1,0 +1,24 @@
+# ~/.config/mako/config
+layer=overlay
+background-color=#22242B
+width=300
+height=110
+border-size=2
+border-color=#88c0d0
+border-radius=5
+icons=0
+max-icon-size=64
+default-timeout=5000
+ignore-timeout=1
+font=Spleen 11
+
+[urgency=low]
+border-color=#B6DFE09B
+
+[urgency=normal]
+border-color=#92D0D1CE
+
+[urgency=critical]
+border-color=#6ec0c2
+default-timeout=0
+

@@ -1,0 +1,15 @@
+[font]
+normal = { family = "IBM Plex Mono", style = "Bold" }
+bold = { family = "IBM Plex Mono", style = "Bold" }
+size = 10
+
+[window]
+blur = true
+opacity = 0.8
+
+[colors]
+
+  [colors.primary]
+  background = "#151419"  # фон окна терминала
+  foreground = "#D9E0EE"  # основной цвет текста (все, что ты видишь в терминале)
+
